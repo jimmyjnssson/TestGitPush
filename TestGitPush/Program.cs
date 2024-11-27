@@ -7,6 +7,8 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("This is from master branch");
             Console.WriteLine("This line is from testbranch1");
+
+            Console.WriteLine("This line is from testbranch2");
         }
     }
 }
